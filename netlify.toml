@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/ShoppingListApp.html"
+status = 200
